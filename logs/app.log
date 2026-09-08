@@ -1,0 +1,4 @@
+[2026-09-08 08:58:10] [INFO] [SupportPearlz]: Starting Knowledge Base ingestion process...
+[2026-09-08 08:58:10] [INFO] [SupportPearlz]: Found 0 files in knowledge base directory: data\knowledge_base
+[2026-09-08 08:58:10] [ERROR] [SupportPearlz]: No documents loaded. Aborting index build.
+[2026-09-08 08:58:48] [INFO] [SupportPearlz]: Creating new empty Chroma vector store at data\vector_store
